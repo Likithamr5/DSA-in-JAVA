@@ -1,2 +1,2 @@
 # DSA-in-JAVA
-My Leetcode solutions in Java 
+Leetcode and Greeks for Greeks solutions in Java 
