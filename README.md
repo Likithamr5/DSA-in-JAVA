@@ -1,2 +1,5 @@
 # DSA-in-JAVA
-Leetcode and Greeks for Greeks solutions in Java 
+My Data Structures and Algorithms
+# Platforms
+-Leetcode
+-GreeksforGreeks
